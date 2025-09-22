@@ -31,3 +31,11 @@ Permite agregar, visualizar y eliminar eventos o tareas, incluyendo **fecha**, *
 
 ```bash
 pip install tkcalendar
+
+## 📸 Capturas de pantalla
+
+### Vista inicial
+![Vista inicial](captura1.png)
+
+### Agregando un evento
+![Agregando evento](captura2.png)
